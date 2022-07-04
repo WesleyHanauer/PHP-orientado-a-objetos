@@ -13,8 +13,3 @@ header{
     margin-bottom: 2vw;
     font-size: larger;
 }
-#informacoes{
-    display: grid;
-    place-items: center;
-    padding-top: 1vw;
-}
